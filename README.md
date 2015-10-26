@@ -9,3 +9,9 @@ The pulse rate sensor takes in pulse rate reading of the user. The Processing sk
 
 ## Related
 MuddHacks (http://muddhacks.com/)
+
+## To-do list
+
+* Add screenshot to the description
+* Audio analysis (possibly with ESSENTIA)
+* change to C++/Java instead of Processing
